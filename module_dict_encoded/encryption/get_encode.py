@@ -6,7 +6,7 @@ Created on Tue Oct 30 00:43:02 2018
 @author: gaurav
 """
 
-
+# get alphabets from encodes
 from encodes import List_of_DEV_C
 from encodes import List_of_ISO_C
 from encodes import DIGITS, ISO_DIGITS
@@ -15,6 +15,7 @@ from encodes import DEV_VOWELS,ISO_DEV_VOWELS
 
 
 #####################################################################
+
 for i,j in zip( List_of_DEV_C, List_of_ISO_C):
     for l,m in zip( i,j ):
         print(l +  "     "+ m)
