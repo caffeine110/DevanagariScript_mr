@@ -1,13 +1,14 @@
 # Procedure to run the files :
 
 Follow the steps given below :
-	1).. Open Terminal
-	2).. change directory to this program dir
-	3).. type below command to run
+
+	Open Terminal
+	Change directory to this program dir
+	Type below command to run
 		python3 FILENAME.py
-	4).. *choose any word form files to find its stem*
-	5).. Enter the word in Exicuting program when asked
-	6).. Take Output
+	Choose any word form files to find its stem*
+	Enter the word in Exicuting program when asked
+	Take Output
 
 
 
