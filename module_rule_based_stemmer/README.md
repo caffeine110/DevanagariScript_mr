@@ -1,4 +1,6 @@
-##Procedure to run the files:
+# Procedure to run the files :
+
+Follow the steps given below :
 	1).. Open Terminal
 	2).. change directory to this program dir
 	3).. type below command to run
@@ -9,14 +11,14 @@
 
 
 
-##for program files : 
+## for program files : 
 	test_from_dictionary.py and 
 	test_from_stemfile.py
 
 	the output genrated may not be accurate but if will generate most possible stem
 	Main word as short as possible
 
-##for program files :
+## for program files :
 	test_from_d_list.py and 
 	test_from_sf_list.py
 	
